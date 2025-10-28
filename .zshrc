@@ -41,6 +41,3 @@ setopt EXTENDED_HISTORY INC_APPEND_HISTORY SHARE_HISTORY HIST_IGNORE_DUPS \
 eval "$(uv generate-shell-completion zsh)"
 . "/home/matyasvincze/.deno/env"
 
-
-# opencode
-export PATH=/home/matyasvincze/.opencode/bin:$PATH
